@@ -1,0 +1,8 @@
+
+  usage: autojam <options> <interface>
+
+  Options:
+      -i                    : Interface to target
+      -t                    : wifi channel to attack
+      -h                    : Displays this usage screen
+
