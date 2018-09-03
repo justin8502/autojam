@@ -1,7 +1,7 @@
 #! /bin/bash
 
 WLAN="wlan0"
-while getopts "::h:i:t:" opt; do
+while getopts "hi:t:" opt; do
 	case $opt in 
 		h)
 			cat manual.txt
