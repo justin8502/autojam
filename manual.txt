@@ -2,7 +2,10 @@
   usage: autojam <options> <interface>
 
   Options:
+      -b                    : BSSID of target (if used with -s)
+      -c                    : Channel of target (if used with -s)
       -i                    : Interface to target
-      -t                    : wifi channel to attack
+      -s                    : Skip automatic scanning
+      -t                    : wifi name to attack
       -h                    : Displays this usage screen
 

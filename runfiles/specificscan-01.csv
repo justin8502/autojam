@@ -1,0 +1,7 @@
+
+BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
+64:A5:C3:6B:C9:4A, 2018-09-03 23:56:46, 2018-09-03 23:58:19,  6,  54, WPA2, CCMP,PSK, -81,      397,      275,   0.  0.  0.  0,  21, Church Street AirPort, 
+
+Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
+50:32:37:85:6A:CF, 2018-09-03 23:57:33, 2018-09-03 23:58:17, -84,       42, 64:A5:C3:6B:C9:4A,
+
